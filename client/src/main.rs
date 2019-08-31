@@ -14,7 +14,6 @@ fn main() {
     io::stdin().read_line(&mut nome).expect("Erro ao ler a linha.");
 
     bem_vindo(&mut nome)
-
 }
 
 // Passar valores em uma função necessita da declaração do tipo e tamanho dos parâmetros
