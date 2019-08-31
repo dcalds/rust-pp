@@ -15,8 +15,9 @@ Um novo projeto será criado, sendo possível notar o arquivo src/main.rs. Este 
 ```
 cargo run build
 ```
+### Adicionando Dependências
 
-Para adicionar dependencias no projeto é necessário entrar no arquivo Cargo.toml, informar a dependencia a ser utilizada:
+Para adicionar dependências no projeto é necessário entrar no arquivo Cargo.toml, informar a dependencia a ser utilizada:
 
 ```
 [dependencies]
