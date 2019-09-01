@@ -1,7 +1,5 @@
 # RUST - Conceitos da Linguagem
 
------
-
 Para começar um projeto em RUST, basta seguir o processor indicado no [link](https://www.rust-lang.org/learn/get-started) a seguir. No Windows é necessário instalar as C++ Build Tools mais recentes.
 
 ### Criando um projeto
